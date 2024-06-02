@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body, html{
+    background-color: #FFC085;
+}
+
+.navcor{
+    background-color: none;
+    color: #FFECD1;
+    font-size: 20px;
+}
+
+.bloco-transparente {
+    background-color: #001524;
+    padding: 20px;
+    width: 70%;
+    color: #FFC085;
+    margin-top: 20px;
+    margin: auto;
+    text-align: center;
+    font-size: 100%;
+    border-radius: 50px;
+    text-decoration: none;
+}
+
+.contrate{
+    background-color: #001524;
+    padding: 20px;
+    width: 70%;
+    color: #FFECD1;
+    margin-top: 20px;
+    margin: auto;
+    text-align: center;
+    font-size: 100%;
+    border-radius: 50px;
+    text-decoration: none;
+}
+.contrate:hover{
+    background-color: #001524;
+    padding: 20px;
+    width: 70%;
+    color: #FFC085;
+    margin-top: 20px;
+    margin: auto;
+    text-align: center;
+    font-size: 100%;
+    border-radius: 50px;
+    text-decoration: none;
+}
+
+.notis{
+    padding: 20px;
+    margin: 50px 30px 20px 20px;
+}
+
+.notis p{
+    color: #001524;
+    text-align: justify;
+    height: 100%;
+}
+
+.clear{
+    clear: both;
+}
+
+.imglat{
+    margin-top: 20px;
+}
+
+footer {
+padding: 3%;
+background-color: #001524;
+color: rgb(255, 255, 255);
+text-align: center;
+}
+
+.rodeado{
+    border-radius: 15px;
+}
+
+.tamanhocar{
+    width: 100%;
+}
+
+.bgbotoes{
+    background-color: #FFC085;
+}
+.bloco{
+    background-color: #FFECD1;
+    padding: 20px;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    margin-top: 50px;
+    margin: auto;
+    
+    text-align: justify;
+}
+.bloco2{
+    background-color: #FFC085;
+    padding: 20px;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    margin-top: 50px;
+    margin: auto;
+}
+.espaço{
+    margin-top: 80px;
+}
+.foto{
+    margin-left: 15px;
+}

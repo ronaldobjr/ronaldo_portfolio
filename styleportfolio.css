@@ -1,20 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
 body, html{
-    background-color: #FFC085;
+    background-color: #FFC430;
 }
 
 .navcor{
-    background-color: #FFC085;
-    color: #FFECD1;
+    background-color: #023047;
+    color: #FFC430;
     font-size: 20px;
 }
 
 .bloco-transparente {
-    background-color: #001524;
+    background-color: #023047;
     padding: 20px;
     width: 70%;
-    color: #FFC085;
+    color: #FFB703;
     margin-top: 20px;
     margin: auto;
     text-align: center;
@@ -24,7 +24,7 @@ body, html{
 }
 
 .contrate{
-    background-color: #001524;
+    background-color: #023047;
     padding: 20px;
     width: 70%;
     color: #FFECD1;
@@ -36,10 +36,10 @@ body, html{
     text-decoration: none;
 }
 .contrate:hover{
-    background-color: #001524;
+    background-color: #023047;
     padding: 20px;
     width: 70%;
-    color: #FFC085;
+    color: #FFB703;
     margin-top: 20px;
     margin: auto;
     text-align: center;
@@ -54,7 +54,7 @@ body, html{
 }
 
 .notis p{
-    color: #001524;
+    color: #023047;
     text-align: justify;
     height: 100%;
 }
@@ -69,7 +69,7 @@ body, html{
 
 footer {
 padding: 3%;
-background-color: #001524;
+background-color: #023047;
 color: rgb(255, 255, 255);
 text-align: center;
 }
@@ -83,10 +83,10 @@ text-align: center;
 }
 
 .bgbotoes{
-    background-color: #FFC085;
+    background-color: #FFB703;
 }
 .bloco{
-    background-color: #FFECD1;
+    background-color: #FFD97B;
     padding: 20px;
     width: 100%;
     color: rgb(0, 0, 0);
@@ -96,7 +96,7 @@ text-align: center;
     text-align: justify;
 }
 .bloco2{
-    background-color: #FFC085;
+    background-color: #FFB703;
     padding: 20px;
     width: 100%;
     color: rgb(0, 0, 0);

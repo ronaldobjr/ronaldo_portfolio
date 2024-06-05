@@ -109,3 +109,7 @@ text-align: center;
 .foto{
     margin-left: 15px;
 }
+.tamanho{
+    font-size: large;
+    align-items: baseline;
+}
